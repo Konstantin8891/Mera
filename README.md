@@ -41,3 +41,7 @@ HOST=localhost
 PORT=5440
 
 uvicorn main:app --reload
+
+Документация
+
+http://localhost:8000/docs
