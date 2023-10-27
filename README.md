@@ -22,6 +22,8 @@ apscheduler
 
 uvicorn
 
+fastapi
+
 ## Запуск
 
 git clone git@github.com:Konstantin8891/Mera.git
